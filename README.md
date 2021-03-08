@@ -11,6 +11,7 @@ kaggle dataset - Hotel booking demand
 
 ### 사용 라이브러리
 - pandas
+- matplotlib, seaborn
 - skcikit learn(logistic regression, support vector machine, randomforest)
 - xgboost
 - catboost
