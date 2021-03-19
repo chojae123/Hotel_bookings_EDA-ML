@@ -12,7 +12,7 @@ jupyternotebook 실행
 전처리1(최종).ipynb 실행
 전처리2_머신러닝전(최종).ipynb 실행
 EDA notebook파일 3개 실행하여 시각화 정보 확인
-머신러닝 notebook파일을 실행하여 취소 여부에 대한 각 모델 별 성능 확인
+머신러닝 notebook파일을 실행하여 취소 여부 예측에 대한 각 모델 별 성능 확인
 ```
 
 ### 사용데이터
@@ -27,7 +27,8 @@ EDA notebook파일 3개 실행하여 시각화 정보 확인
 - lightgbm
 
 ### 참여자
-
+- [류정욱](https://github.com/jamey0320)
+- [김다슬](https://github.com/Daseul-Kim)
 
 ### Citation
 
