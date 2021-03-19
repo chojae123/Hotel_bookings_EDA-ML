@@ -6,6 +6,9 @@
 도심 호텔과 관광지호텔의 호텔 투숙객 예약정보가 담긴 kaggle data(hotel bookig demand)를 활용   
 각 호텔의 고객의 예약정보를 통해 호텔 별 투숙객의 성향을 분석하고, 머신러닝 모델을 통해 호텔별 투숙객의 예약 취소 여부를 예측 
 
+<image src = https://github.com/chojae123/Hotel_bookings_EDA-ML/blob/main/data/img/img1.png>
+<image src = https://github.com/chojae123/Hotel_bookings_EDA-ML/blob/main/data/img/img2.png>  
+
 ### 실행
 ```
 jupyternotebook 실행
